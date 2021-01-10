@@ -9,4 +9,4 @@ os.system("mkdir DCIM")
 os.system("mkdir Download")
 os.system("mkdir Pictures")
 os.system("mkdir VK")
-os.system("mkdir Telegra
+os.system("mkdir Telegram")
